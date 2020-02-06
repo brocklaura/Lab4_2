@@ -1,0 +1,11 @@
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4_2\ClassesMovies4_2Lab\bin\Debug\netcoreapp3.1\ClassesMovies4_2Lab.exe
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4_2\ClassesMovies4_2Lab\bin\Debug\netcoreapp3.1\ClassesMovies4_2Lab.deps.json
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4_2\ClassesMovies4_2Lab\bin\Debug\netcoreapp3.1\ClassesMovies4_2Lab.runtimeconfig.json
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4_2\ClassesMovies4_2Lab\bin\Debug\netcoreapp3.1\ClassesMovies4_2Lab.runtimeconfig.dev.json
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4_2\ClassesMovies4_2Lab\bin\Debug\netcoreapp3.1\ClassesMovies4_2Lab.dll
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4_2\ClassesMovies4_2Lab\bin\Debug\netcoreapp3.1\ClassesMovies4_2Lab.pdb
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4_2\ClassesMovies4_2Lab\obj\Debug\netcoreapp3.1\ClassesMovies4_2Lab.csprojAssemblyReference.cache
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4_2\ClassesMovies4_2Lab\obj\Debug\netcoreapp3.1\ClassesMovies4_2Lab.AssemblyInfoInputs.cache
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4_2\ClassesMovies4_2Lab\obj\Debug\netcoreapp3.1\ClassesMovies4_2Lab.AssemblyInfo.cs
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4_2\ClassesMovies4_2Lab\obj\Debug\netcoreapp3.1\ClassesMovies4_2Lab.dll
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab4_2\ClassesMovies4_2Lab\obj\Debug\netcoreapp3.1\ClassesMovies4_2Lab.pdb
